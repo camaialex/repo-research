@@ -1,3 +1,5 @@
 {
-  "format": "YYYYMMDDhhmm_"
+  "format": "YYYY-MM-DD_HHmm",
+  "template": "templates/daily",
+  "folder": "logs"
 }
