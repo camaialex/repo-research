@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD_HHmm",
-  "template": "templates/daily",
+  "template": "meta/templates/unique",
   "folder": "logs"
 }

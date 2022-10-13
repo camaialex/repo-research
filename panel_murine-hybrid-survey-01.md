@@ -14,9 +14,9 @@ Adapted from Busch et al.
 | FITC        | [[marker_ly6c\|Ly6C]]     |          |       |                                        |     |
 | BV711       | [[marker_cd11b\|CD11b]]       |          |       |                                        |     |
 | BUV395      | [[marker_mhcii\|MHCII]]   |          |       |                                        | X   |
-| BUV496      | [[marker_cd3\|CD3]]       |          |       | [[cell_t-cell\|T-cell]]                |     |
+| BUV563      | [[marker_cd3\|CD3]]       |          |       | [[cell_t-cell\|T-cell]]                |     |
 | BV786       | [[marker_cd4\|CD4]]           |          |       | [[cell_helper-t\|Helper T-cell]]       |     |
-| PerCP-Cy5.5 | [[marker_cd8\|CD8]]           |          |       | [[cell_cytotoxic-t\|Cytotoxic T-cell]] |     |
+| BUV395 | [[marker_cd8\|CD8]]           |          |       | [[cell_cytotoxic-t\|Cytotoxic T-cell]] |     |
 | APC         | [[marker_cd19\|CD19]]     |          |       | [[cell_b\|B-cell]]                                 |     |
 
 ## Gating Strategy
