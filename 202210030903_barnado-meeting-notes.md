@@ -1,3 +1,5 @@
+#barnado #log
+
 ## Tasks
 - Assist with IUGR cleaning
 - Make more formal logical definitions for IUGR
