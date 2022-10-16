@@ -1,3 +1,5 @@
 {
-  "format": "YYYYMMDDHHmm"
+  "format": "YYYY-MM-DD",
+  "folder": "daily",
+  "template": "meta/templates/daily"
 }

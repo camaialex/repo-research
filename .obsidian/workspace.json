@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "992ada7c1b652bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bad623a07e262e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7d255a28adfcf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145691e9fa5670cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c81248a8cd6f5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3602483bc99c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed5c6941c7952f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abab0adf5ca35e69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d049b9b746f074e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8010685ca9757305",
+    "type": "split",
+    "children": [
+      {
+        "id": "700858a22ceecc4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea6aa19df34039e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40e0d6cea6c20a59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb8a6eafa870f40a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d3c533207df741a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "logs/2022-10-03 Tseng Lab Meeting.md"
+              }
+            }
+          },
+          {
+            "id": "a0ecb3888894542c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6b7d255a28adfcf1",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "logs/2022-10-03 Tseng Lab Meeting.md",
+    "logs/2022-20-11 HVTN 307 Protocol Notes.md",
+    "logs/2022-10-10 Barnado Lab Meeting.md",
+    "logs/2022-10-03 Barnado Lab Meeting.md",
+    "202210031150_ox-cy-meeting.md",
+    "202210030903_barnado-meeting-notes.md",
+    "ref_cell_neutrophil.md",
+    "202209271124_oxcy-project-5.md",
+    "proj_immunogenic-chemo.md"
+  ]
+}
