@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b7d255a28adfcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "145691e9fa5670cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "pathway_jak-stat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
+                "file": "pathway_jak-stat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2022-10-03 Tseng Lab Meeting.md",
+                "file": "pathway_jak-stat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2022-10-03 Tseng Lab Meeting.md"
+                "file": "pathway_jak-stat.md"
               }
             }
           },
@@ -161,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6b7d255a28adfcf1",
+  "active": "145691e9fa5670cf",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "logs/2022-10-03 Tseng Lab Meeting.md",
-    "logs/2022-20-11 HVTN 307 Protocol Notes.md",
-    "logs/2022-10-10 Barnado Lab Meeting.md",
-    "logs/2022-10-03 Barnado Lab Meeting.md",
-    "202210031150_ox-cy-meeting.md",
-    "202210030903_barnado-meeting-notes.md",
-    "ref_cell_neutrophil.md",
-    "202209271124_oxcy-project-5.md",
-    "proj_immunogenic-chemo.md"
+    "cell_neutrophil.md",
+    "pathway_jak-stat.md",
+    "panel_murine-hybrid-survey-01.md",
+    "marker_cd45.md",
+    "marker_ly6g.md",
+    "marker_cd11b.md",
+    "meta/attachments/pathway_jak-stat.png",
+    "meta/attachments/Pasted image 20221016120258.png",
+    "meta/attachments/busch_gating_strategy.png",
+    "project/01 immunogenic chemotherapy/overview_project01.md"
   ]
 }

@@ -22,4 +22,4 @@ Adapted from Busch et al.
 ## Gating Strategy
 Replace this with own data once it is run:
 
-![[Pasted image 20221010132556.png]]
+![[busch_gating_strategy.png]]
