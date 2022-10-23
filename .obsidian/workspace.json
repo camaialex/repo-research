@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "a9f12b220c51505d",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a02efa30f0428c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a52c65607d8712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/2022-10-17_0904 Barnado Lab Meeting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05920e358cb9cd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cell_monocyte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f40a3cacd118ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "panel_murine-hybrid-survey-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e37efedfa9ddb797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-10-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbb2ef2ad584c94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3527904f7cb5d7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3b56beceb9d0cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "326f1b028fed1527",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71a5bb20ea77b802",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "c4ac5b7d4e4d4bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda646c9d18a451c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096aad35727c667a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2022-10-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18bcf0eb142eca6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2022-10-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6ceff842971588e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2069bee575a75f2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2022-10-12.md"
+              }
+            }
+          },
+          {
+            "id": "f7f2418556ff7547",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4f5c59ffb4737a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e37efedfa9ddb797",
+  "lastOpenFiles": [
+    "panel_murine-hybrid-survey-01.md",
+    "cell_monocyte.md",
+    "logs/2022-10-17_0904 Barnado Lab Meeting.md",
+    "logs/2022-10-03 Barnado Lab Meeting.md",
+    "logs/2022-10-10 Barnado Lab Meeting.md",
+    "logs/2022-10-03 Tseng Lab Meeting.md",
+    "todo.md",
+    "sop_ip-lavage.md",
+    "marker_cd11b.md",
+    "marker_ly6g.md"
+  ]
+}
