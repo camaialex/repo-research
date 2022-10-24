@@ -8,8 +8,8 @@ Tags: #barnado
 
 
 ## To Do
-- [ ] Upload R code into training docs
-- [ ] GRS manuscript citation check Thursday
-- [ ] GRS medication merge (postponed to next week)
-- [ ] Nephritis column alignment
+- [x] Upload R code into training docs
+- [x] GRS manuscript citation check Thursday
+- [x] GRS medication merge (postponed to next week)
+- [x] Nephritis column alignment
 

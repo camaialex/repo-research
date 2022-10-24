@@ -5,6 +5,6 @@ Tags:
 ---
 
 # Consent Form
-- [ ] "Phase I" vs. "phase 1"?
-- [ ] Flowchart for previous studies in which patients dropped out for various reasons
+- [x] "Phase I" vs. "phase 1"?
+- [x] Flowchart for previous studies in which patients dropped out for various reasons
 
