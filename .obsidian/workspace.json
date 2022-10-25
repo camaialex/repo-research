@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a9f12b220c51505d",
+    "id": "992ada7c1b652bd1",
     "type": "split",
     "children": [
       {
-        "id": "69a02efa30f0428c",
+        "id": "bad623a07e262e62",
         "type": "tabs",
         "children": [
           {
-            "id": "34a52c65607d8712",
+            "id": "145691e9fa5670cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2022-10-03 Barnado Lab Meeting.md",
+                "file": "pathway_jak-stat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,69 +21,44 @@
             }
           },
           {
-            "id": "05920e358cb9cd5c",
+            "id": "f8264a926acff2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cell_monocyte.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f40a3cacd118ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "panel_murine-hybrid-survey-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e37efedfa9ddb797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2022-10-12.md",
+                "file": "daily/2022-10-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bbb2ef2ad584c94a",
+    "id": "5c81248a8cd6f5b2",
     "type": "split",
     "children": [
       {
-        "id": "3527904f7cb5d7f2",
+        "id": "7e3602483bc99c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b56beceb9d0cd2",
+            "id": "4ed5c6941c7952f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "326f1b028fed1527",
+            "id": "abab0adf5ca35e69",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -98,7 +73,7 @@
             }
           },
           {
-            "id": "71a5bb20ea77b802",
+            "id": "d049b9b746f074e1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,23 +84,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 300
   },
   "right": {
-    "id": "c4ac5b7d4e4d4bed",
+    "id": "8010685ca9757305",
     "type": "split",
     "children": [
       {
-        "id": "eda646c9d18a451c",
+        "id": "700858a22ceecc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "096aad35727c667a",
+            "id": "ea6aa19df34039e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2022-10-03 Barnado Lab Meeting.md",
+                "file": "daily/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,19 +112,19 @@
             }
           },
           {
-            "id": "18bcf0eb142eca6d",
+            "id": "40e0d6cea6c20a59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2022-10-03 Barnado Lab Meeting.md",
+                "file": "daily/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f6ceff842971588e",
+            "id": "fb8a6eafa870f40a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,25 +135,17 @@
             }
           },
           {
-            "id": "2069bee575a75f2f",
+            "id": "0d3c533207df741a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2022-10-03 Barnado Lab Meeting.md"
+                "file": "daily/2022-10-25.md"
               }
             }
           },
           {
-            "id": "f7f2418556ff7547",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e4f5c59ffb4737a8",
+            "id": "a0ecb3888894542c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -186,26 +153,26 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "34a52c65607d8712",
+  "active": "a0ecb3888894542c",
   "lastOpenFiles": [
-    "logs/2022-10-03 barnado lab meeting.md",
-    "logs/2022-10-03 Barnado Lab Meeting.md",
-    "logs/2022-10-03 Tseng Lab Meeting.md",
-    "logs/2022-10-10 Barnado Lab Meeting.md",
-    "logs/2022-20-11 HVTN 307 Protocol Notes.md",
-    "logs/2022-10-17_0904 Barnado Lab Meeting.md",
-    "daily/2022-10-12.md",
+    "pathway_jak-stat.md",
+    "cell_neutrophil.md",
     "panel_murine-hybrid-survey-01.md",
-    "cell_monocyte.md",
-    "todo.md"
+    "marker_cd45.md",
+    "marker_ly6g.md",
+    "marker_cd11b.md",
+    "meta/attachments/pathway_jak-stat.png",
+    "meta/attachments/Pasted image 20221016120258.png",
+    "meta/attachments/busch_gating_strategy.png",
+    "project/01 immunogenic chemotherapy/overview_project01.md"
   ]
 }
