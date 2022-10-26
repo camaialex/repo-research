@@ -17,3 +17,5 @@ Set up `.gitignore` to ignore default system files and personal settings
 `git reset` for when you mess up the stage
 
 `git status` to check which files have been staged
+
+`git stash` **very useful for conflicts** stores a local copy of the repository so that you don't lose overwritten conflicting file versions (needs to be done in terminal/cmd)
