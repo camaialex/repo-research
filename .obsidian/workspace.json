@@ -1,50 +1,64 @@
 {
   "main": {
-    "id": "992ada7c1b652bd1",
+    "id": "a9f12b220c51505d",
     "type": "split",
     "children": [
       {
-        "id": "bad623a07e262e62",
+        "id": "69a02efa30f0428c",
         "type": "tabs",
         "children": [
           {
-            "id": "145691e9fa5670cf",
+            "id": "05920e358cb9cd5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/Git gud.md",
+                "file": "cell_monocyte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d554e58328b74f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/2022-10-26_1003 McGarry Meeting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c81248a8cd6f5b2",
+    "id": "bbb2ef2ad584c94a",
     "type": "split",
     "children": [
       {
-        "id": "7e3602483bc99c3f",
+        "id": "3527904f7cb5d7f2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed5c6941c7952f0",
+            "id": "d3b56beceb9d0cd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
           {
-            "id": "abab0adf5ca35e69",
+            "id": "326f1b028fed1527",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +73,7 @@
             }
           },
           {
-            "id": "d049b9b746f074e1",
+            "id": "71a5bb20ea77b802",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,23 +84,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215
   },
   "right": {
-    "id": "8010685ca9757305",
+    "id": "c4ac5b7d4e4d4bed",
     "type": "split",
     "children": [
       {
-        "id": "700858a22ceecc4b",
+        "id": "eda646c9d18a451c",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6aa19df34039e0",
+            "id": "096aad35727c667a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta/Git gud.md",
+                "file": "logs/2022-10-26_1003 McGarry Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +112,19 @@
             }
           },
           {
-            "id": "40e0d6cea6c20a59",
+            "id": "18bcf0eb142eca6d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meta/Git gud.md",
+                "file": "logs/2022-10-26_1003 McGarry Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fb8a6eafa870f40a",
+            "id": "f6ceff842971588e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +135,25 @@
             }
           },
           {
-            "id": "0d3c533207df741a",
+            "id": "2069bee575a75f2f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta/Git gud.md"
+                "file": "logs/2022-10-26_1003 McGarry Meeting.md"
               }
             }
           },
           {
-            "id": "a0ecb3888894542c",
+            "id": "f7f2418556ff7547",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4f5c59ffb4737a8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -139,26 +161,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "145691e9fa5670cf",
+  "active": "0d554e58328b74f9",
   "lastOpenFiles": [
+    "logs/2022-10-11 HVTN 307 Protocol Notes.md",
+    "logs/2022-10-26_1003 McGarry Meeting.md",
     "daily/2022-10-25.md",
-    "pathway_jak-stat.md",
-    "conflict-files-obsidian-git.md",
-    "cell_neutrophil.md",
+    "recipe_gel-drying-solution.md",
     "panel_murine-hybrid-survey-01.md",
-    "marker_cd45.md",
-    "marker_ly6g.md",
-    "marker_cd11b.md",
-    "meta/attachments/pathway_jak-stat.png",
-    "meta/attachments/Pasted image 20221016120258.png"
+    "cell_monocyte.md",
+    "daily/2022-10-12.md",
+    "logs/2022-10-03 Barnado Lab Meeting.md",
+    "logs/2022-10-03 barnado lab meeting.md",
+    "logs/2022-10-03 Tseng Lab Meeting.md"
   ]
 }
