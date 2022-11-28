@@ -1,4 +1,4 @@
-Links:
+Links: [[cell-progenitor-exhausted-t]], [[cell_exhausted-t]]
 Tags: #lymphoid #t-cell #t-cell-exhaustion
 
 ---
