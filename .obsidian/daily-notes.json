@@ -1,4 +1,4 @@
 {
-  "folder": "repo-research/daily",
-  "template": "repo-research/meta/templates/daily"
+  "folder": "daily",
+  "template": "meta/templates/daily"
 }
