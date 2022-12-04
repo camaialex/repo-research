@@ -1,3 +1,7 @@
+---
+alias: CD8+ T-cell, Cytotoxic T-cell, T(c), T(k), Tk
+---
+
 #ref #cell #lymphoid 
 
 # CYTOTOXIC T-CELL

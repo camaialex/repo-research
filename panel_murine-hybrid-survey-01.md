@@ -1,3 +1,7 @@
+---
+alias: Murine Hybrid Survey Panel v01
+---
+
 #ref #facs
 
 # Murine Hybrid Immune Survey Panel v01

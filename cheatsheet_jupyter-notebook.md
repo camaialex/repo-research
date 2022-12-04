@@ -1,3 +1,7 @@
+---
+alias: Jupyter Notebook
+---
+
 #code #rlang
 
 # Jupyter Notebook Cheat Sheet

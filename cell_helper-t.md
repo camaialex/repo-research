@@ -1,3 +1,7 @@
+---
+alias: Helper T-cell, Th, CD4+ T-cell
+---
+
 #ref #cell #lymphoid 
 
 # HELPER T-CELL

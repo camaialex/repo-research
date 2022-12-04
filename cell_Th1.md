@@ -1,3 +1,7 @@
+---
+alias: Th1 Cell
+---
+
 #ref #cell #lymphoid
 
 # Th1 cell

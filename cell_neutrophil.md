@@ -1,3 +1,7 @@
+---
+alias: Neutrophil, nø
+---
+
 #ref #cell #myeloid
 
 # NEUTROPHIL

@@ -1,1 +1,5 @@
+---
+alias: Murine Dissection
+---
+
 #sop

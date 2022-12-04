@@ -1,3 +1,7 @@
+---
+alias: FACSDiva
+---
+
 #sop #facs
 
 *For use with BD flow cytometers running FACSDiva software*

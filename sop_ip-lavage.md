@@ -1,3 +1,7 @@
+---
+alias: Intraperitoneal Lavage, IP Lavage
+---
+
 #sop 
 
 Applicable to: #facs

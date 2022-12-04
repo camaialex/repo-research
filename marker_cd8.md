@@ -1,3 +1,7 @@
+---
+alias: CD8
+---
+
 #ref #marker #lymphoid
 
 # CD8

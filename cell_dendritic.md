@@ -1,3 +1,7 @@
+---
+alias: Dendritic Cell, DC
+---
+
 #ref #cell `#lymphoid or #myeloid`
 
 # DENDRITIC CELL
