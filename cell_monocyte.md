@@ -1,3 +1,7 @@
+---
+alias: Monocyte
+---
+
 #ref #cell  #myeloid
 
 # MONOCYTE

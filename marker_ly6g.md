@@ -1,3 +1,7 @@
+---
+alias: Ly6G, Ly-6G
+---
+
 #ref #marker #todo
 
 # Ly6G

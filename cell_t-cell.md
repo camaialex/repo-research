@@ -1,3 +1,7 @@
+---
+alias: T-cell
+---
+
 #ref #cell `#lymphoid or #myeloid`
 
 # T-CELL
@@ -9,4 +13,4 @@
 **Functional Snapshot:**
 - Main players in cell-mediated immunity
 - Research focuses on exhaustion and its effects on disease states
-	- [[heide_t-cell-exhaustion-review]]
+	- [[2022-11-28]]

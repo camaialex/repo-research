@@ -1,3 +1,7 @@
+---
+alias: CD11b
+---
+
 #ref #marker
 
 # CD11b

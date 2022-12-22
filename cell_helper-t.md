@@ -1,3 +1,7 @@
+---
+alias: Helper T-cell, Th, CD4+ T-cell
+---
+
 #ref #cell #lymphoid 
 
 # HELPER T-CELL
@@ -13,7 +17,7 @@
 	- *Signal 2:* Costimulatory protein :: CD28
 - Activation triggers IL-2 autocrine signaling
 - Function varies by differentiation:
-	- [[cell_Th1|Th1]]
+	- [[cell_th1|Th1]]
 	- Th2
 	- Th17
 	- Treg

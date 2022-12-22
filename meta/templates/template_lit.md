@@ -1,7 +1,3 @@
-Links:
-Tags:
-
----
 
 _DOI_
 

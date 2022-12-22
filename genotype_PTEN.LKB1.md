@@ -1,3 +1,7 @@
+---
+alias: PTEN.LKB1, PL
+---
+
 #ref 
 
 **Generation time**: Fast (2-3 weeks)

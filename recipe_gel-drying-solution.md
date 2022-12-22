@@ -1,3 +1,7 @@
+---
+alias: Gel-drying Solution
+---
+
 tags: #sds-page
 
 **Purpose**: to draw water out of an SDS-PAGE gel for preservation.

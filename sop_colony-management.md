@@ -1,3 +1,7 @@
+---
+alias: Colony Management Guide
+---
+
 #ref #sop #mouse
 
 # General tips for running a mouse colony

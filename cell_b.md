@@ -1,3 +1,7 @@
+---
+alias: B-cell
+---
+
 #ref #cell #lymphoid
 
 # B-CELL

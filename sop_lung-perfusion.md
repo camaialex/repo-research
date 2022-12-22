@@ -1,1 +1,5 @@
+---
+alias: Lung Perfusion
+---
+
 #sop
