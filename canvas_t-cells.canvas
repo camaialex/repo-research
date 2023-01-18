@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"502c91d274b75379","x":-131,"y":15,"width":348,"height":184,"type":"file","file":"T-cell.md"},
+		{"id":"922d184c2664746b","x":-820,"y":403,"width":400,"height":400,"type":"file","file":"helper T-cell.md"},
+		{"id":"41b9d8f49fed1087","x":391,"y":603,"width":400,"height":400,"type":"file","file":"cytotoxic T-cell.md"},
+		{"id":"7f01052cc93d7810","x":279,"y":373,"width":81,"height":60,"type":"text","text":"CD8+"},
+		{"id":"f69348e3eaa20d40","x":-368,"y":272,"width":81,"height":60,"type":"text","text":"CD4+"},
+		{"id":"6fe557cf2e03833f","x":-64,"y":678,"width":107,"height":60,"type":"text","text":"Activates"}
+	],
+	"edges":[
+		{"id":"cbfeb2eb28a4f1ef","fromNode":"502c91d274b75379","fromSide":"bottom","toNode":"922d184c2664746b","toSide":"top"},
+		{"id":"586bab2706426f37","fromNode":"502c91d274b75379","fromSide":"bottom","toNode":"41b9d8f49fed1087","toSide":"top"},
+		{"id":"fa8d71abfb13ad5c","fromNode":"922d184c2664746b","fromSide":"right","toNode":"41b9d8f49fed1087","toSide":"left"}
+	]
+}

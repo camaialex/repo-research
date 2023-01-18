@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD_HHmm",
   "template": "meta/templates/unique",
-  "folder": "logs"
+  "folder": "lab-notebook"
 }
