@@ -1,7 +1,3 @@
----
-alias: CD4
----
-
 #ref #marker #lymphoid 
 
 # CD4

@@ -1,5 +1,5 @@
 ---
-alias: T-cell
+alias: T-cell, T cell
 ---
 
 #ref #cell `#lymphoid or #myeloid`

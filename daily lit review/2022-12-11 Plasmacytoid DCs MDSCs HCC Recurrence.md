@@ -3,7 +3,7 @@ alias: Pang - Plasmacytoid DCs MDSCs HCC Recurrence
 ---
 
 Links: [[MDSC|MDSC]], [[plasmacytoid dendritic cell|Plasmacytoid Dendritic Cell]]
-Tags: #mdsc #cancerj
+Tags: #mdsc #cancer 
 
 ---
 

@@ -2,7 +2,7 @@
 alias: Hong - OXPHOS Th17 persistence
 ---
 
-Links: [[Th17 cell|Th17]], [[system_oxphos|OXPHOS]], [[system_glycolysis|Glycolysis]] 
+Links: [[Th17 cell|Th17]], [[oxphos|OXPHOS]], [[glycolysis|Glycolysis]] 
 Tags:
 
 ---

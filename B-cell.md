@@ -1,5 +1,5 @@
 ---
-alias: B-cell
+alias: B-cell, B cell
 ---
 
 #ref #cell #lymphoid

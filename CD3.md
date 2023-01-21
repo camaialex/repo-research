@@ -1,7 +1,3 @@
----
-alias: CD3
----
-
 #ref #marker 
 
 # CD3

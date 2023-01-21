@@ -3,7 +3,7 @@ alias: Interferon Gamma, IFNg
 ---
 
 Links: 
-Tags: #ref #protein
+Tags: #ref #protein #cytokines 
 
 -----
 
