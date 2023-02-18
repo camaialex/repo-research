@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Building
 
+- [ ] #mousehouse UML Diagram
 
 
 ## Planning

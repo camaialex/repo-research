@@ -2,7 +2,7 @@
 alias: Allen - Synthetic Cytokine Circuits T-cells Cancer
 ---
 
-Links: [[IL-2|IL-2]], [[cell_car-t|CAR-T-cells]], [[cancer|Cancer]]
+Links: [[IL-2|IL-2]], [[CAR-T cell|CAR-T-cells]], [[cancer|Cancer]]
 Tags: #immunotherapy #adoptive-transfer #car-t-cells #WENDELL-LIM #UCSF
 
 ---

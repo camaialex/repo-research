@@ -1,0 +1,9 @@
+#ref #lipid #metabolism 
+
+Prostaglandin E2 (PGE2), also known as dinoprostone, is a naturally occurring prostaglandin with oxytocic properties that is used as a medication. Dinoprostone is used in labor induction, bleeding after delivery, termination of pregnancy, and in newborn babies to keep the ductus arteriosus open. In babies it is used in those with congenital heart defects until surgery can be carried out. It is also used to manage gestational trophoblastic disease. It may be used within the vagina or by injection into a vein.
+
+PGE2 synthesis within the body begins with the activation of arachidonic acid (AA) by the enzyme phospholipase A2. Once activated, AA is oxygenated by cyclooxygenase (COX) enzymes to form prostaglandin endoperoxides. Specifically, prostaglandin G2 (PGG2) is modified by the peroxidase moiety of the COX enzyme to produce prostaglandin H2 (PGH2) which is then converted to PGE2.
+
+Common side effects of PGE2 include nausea, vomiting, diarrhea, fever, and excessive uterine contraction. In babies there may be decreased breathing and low blood pressure. Caution should be taken in people with asthma or glaucoma and it is not recommended in those who have had a prior C-section. It works by binding and activating the prostaglandin E2 receptor which results in the opening and softening of the cervix and dilation of blood vessels.
+
+Prostaglandin E2 was first synthesized in 1970 and approved for medical use by the FDA in the United States in 1977. It is on the World Health Organization's List of Essential Medicines. Prostaglandin E2 works as well as prostaglandin E1 in babies.

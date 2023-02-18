@@ -2,7 +2,7 @@
 alias: Burton - Accessory receptors CAR
 ---
 
-Links:  [[T-cell|T-cell]], [[cell_car-t | Chimeric Antigen Receptor T-cell]]
+Links:  [[T-cell|T-cell]], [[CAR-T cell | Chimeric Antigen Receptor T-cell]]
 Tags:  #t-cell #immunotherapy #car-t-cells #OMER-DUSHEK #OXFORD
 
 ---

@@ -2,7 +2,7 @@
 alias: Liu - Cytokines T-cell Therapy
 ---
 
-Links: [[cell_car-t|CAR-T cells]], [[ref_adoptive-transfer|Adoptive transfer]]
+Links: [[CAR-T cell|CAR-T cells]], [[ref_adoptive-transfer|Adoptive transfer]]
 Tags: #car-t-cells #adoptive-transfer #cytokines #biotechnology #DAVID-MOONEY #HARVARD #DANA-FARBER
 
 ---

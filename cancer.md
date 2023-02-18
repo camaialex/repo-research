@@ -1,11 +1,4 @@
----
-alias: Cancer
----
-
-Links:
-Tags:
-
----
+#ref #disease
 
 # Cancer
 

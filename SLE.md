@@ -1,11 +1,7 @@
 ---
 alias: Systemic Lupus Erythematosus, SLE
 ---
-
-Links: 
-Tags: #ref
-
------
+#ref #disease
 
 # Systemic Lupus Erythematosus
 _Landing page_

@@ -1,0 +1,8 @@
+{
+  "minimal-style@@bold-color@@light": "#EEE005",
+  "minimal-style@@bold-weight": 700,
+  "minimal-style@@bold-color@@dark": "#C9AF35",
+  "minimal-style@@italic-color@@dark": "#F0C064",
+  "minimal-style@@graph-node@@dark": "#F7CB36",
+  "minimal-style@@graph-node-tag@@dark": "#FFA439"
+}

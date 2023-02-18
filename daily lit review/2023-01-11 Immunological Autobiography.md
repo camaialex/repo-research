@@ -2,7 +2,7 @@
 alias: Kedl - Immunological Autobiography
 ---
 
-Links: [[dis_covid-19|COVID-19]]
+Links: [[COVID-19|COVID-19]]
 Tags: #vaccine #covid #ROSS-KEDL #COLORADO 
 
 ---

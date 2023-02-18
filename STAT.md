@@ -1,0 +1,3 @@
+#ref #cancer #cell-signaling 
+
+Members of the signal transducer and activator of transcription (STAT) protein family are intracellular transcription factors that mediate many aspects of cellular immunity, proliferation, apoptosis and differentiation. They are primarily activated by membrane receptor-associated Janus kinases (JAK). Dysregulation of this pathway is frequently observed in primary tumors and leads to increased angiogenesis which enhances the survival of tumors and immunosuppression. Gene knockout studies have provided evidence that STAT proteins are involved in the development and function of the immune system and play a role in maintaining immune tolerance and tumor surveillance.
