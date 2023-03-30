@@ -1,13 +1,22 @@
 ---
-alias: 
+version: 
+last_updated: #MMDDYY
+aliases: 
+type: Cell
+status: 
 ---
 
-#ref #cell `#lymphoid or #myeloid`
-
-# CELL
-
-**Definition Tree:**
+# Cell Name
+---
+## Lineage
 - 
 
-**Functional Snapshot:**
+## Biology
 - 
+
+
+# References
+1. 
+
+---
+_Tags:_ #ref #cell

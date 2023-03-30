@@ -1,0 +1,7 @@
+#ref #innate-immunity #immune #protein #receptor
+
+_From Wikipedia_
+
+TLR7 has been shown to play a significant role in the pathogenesis of autoimmune disorders such as lupus as well as in the regulation of antiviral immunity. Although not yet fully elucidated, using an unbiased genome-scale screen with short hairpin RNA (shRNA), it has been demonstrated that the receptor TREML4 acts as an essential positive regulator of TLR7 signaling. In TREML4 -/- mice macrophages that are hyporesponsive to TLR7 agonists, macrophages fail to produce type I interferons due to impaired phosphorylation of the transcription factor STAT1 by the mitogen-activated protein kinase [[p38]] and decreased recruitment of the adaptor [[MYD88]] to TLR7. TREML4 deficiency reduced the production of inflammatory cytokines and autoantibodies in MRL/lpr mice, suggesting that TLR7 is a vital component of antiviral immunity and a predecessor factor in the pathogenesis of rheumatic diseases such as systemic lupus erythematosus ([[SLE]]). A TLR7 agonist, imiquimod (Aldara), has been approved for topical use in treating warts caused by papillomavirus and for actinic keratosis.
+
+Due to their ability to induce robust production of anti-cancer cytokines such as [[IL-12|IL12]], TLR7 agonists have been investigated for cancer [[immunotherapy]]. Recent examples include TMX-202 delivery via liposomal formulation, as well as the delivery of resiquimod via nanoparticles formed from beta-cyclodextrin.

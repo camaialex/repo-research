@@ -1,10 +1,11 @@
 ---
-alias:
+version: 
+last_updated: #MMDDYY
+aliases: 
+type: 
+status: 
 ---
 
-Links:
-Tags: #ref
 
------
-
-# Subject
+---
+_Tags:_ #ref

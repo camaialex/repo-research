@@ -32,7 +32,7 @@ https://vimsheet.com/
 
 ### Marking text (visual mode)
 
--   `v` - Start visual mode
+-   `v` - Start visual mode (**select mode**)
 -   `V` - Start linewise visual mode
 -   `Ctrl+v` - Start visual block mode
 -   `Esc` or `Ctrl+[` - Exit visual mode

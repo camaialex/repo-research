@@ -1,8 +1,16 @@
 ---
-alias: 
+authors: 
+institution: 
+aliases: 
+type: 
+project: [[]]
+links:
+ - [[]]
+status: 
 ---
+# Title
 
-Links:
-Tags:
 
 ---
+_Tags:_ 
+

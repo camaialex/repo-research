@@ -1,11 +1,13 @@
 ---
-alias: 
+authors: 
+institution:  
+aliases: 
+type: 
+project: [[]]
+status: 
 ---
+# Title
 
-Links: 
-Tags: 
 
 ---
-
-# Descriptive Title
-
+_Tags:_ 
