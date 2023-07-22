@@ -10,6 +10,7 @@ type:
 	- Case Study
 	- SOP
 	- Experiment
+	- Recipe
 project: [[]] Link to project this file is associated with
 status: Incomplete, Complete, Verified
 ---

@@ -12,36 +12,21 @@ status: Verified
 # Procedure Name
 ---
 > [!SUMMARY]+
-> A brief description of the objectives of the experiment
+> This procedure yields a single-cell suspension from a solid piece of tissue.
 
 > [!CAUTION]+
 > Tissue digests should be performed in a team of at least two if there are more than 5 samples to process. It is a long, time-consuming process and an entire day should be reserved for this experiment alone.
 
 # Materials
 ---
- - 70-micron and 40-micron cell strainer
+- 70-micron and 40-micron cell strainer
 - 2mL Eppendorf tubes and 50mL conical tubes
-- FA3 Buffer
-	- DPBS (no Ca, Mg): 500mL
-	- **2.5mM** EDTA (2.5mL, 0.5M in 500mL)
-	- **2%** FBS (10mL in 500mL)
-	- pH adjusted to **8**
+- [[FA-3 Buffer]]
 - RPMI 1640 (L-Gln, HEPES), serum-free
 - “Blunt” P-1000 tips (End trimmed by razor to expose wider mouth) _OR_ syringe with small-gauge needle
 - 1mL syringe plungers
 - [[ACK Lysis Buffer]]
-- Sterile-filtered 10x digestion buffer (Recipe 1)
-	- **320mg** Collagenase **II**
-	- **75mg** Elastase
-	- **20mg** Soybean trypsin inhibitor
-	- **10mL** RPMI
-OR
-
-- Sterile-filtered 10x digestion buffer (Recipe 2)
-	- **274mg** Collagenase **IV**
-	- **20mg** Soybean trypsin inhibitor
-	- **10mL** RPMI
-	- 1 tablet **Pierce protease inhibitor w/EDTA** per 20-30mL buffer
+- [[10x DB]]
 
 
 # Procedure

@@ -16,14 +16,14 @@ status: Incomplete
 ## General Structure
 ---
 ![[Pasted image 20230325163607.png]]
-| Region                          | Function                | Immune populations                                              |
-| ------------------------------- | ----------------------- | --------------------------------------------------------------- |
-| Capsule                         | Outer connective tissue | -                                                               |
-| Cortex                          | Immune interactions     | Inactive [[B-cell]]s, Inactive [[T-cell]]s, [[dendritic cell]]s |
-| Medulla                         | Immune interactions     | [[Plasma cell]]s                                                |
-| Afferent lymphatic vessels      | In-flow of blood        |                                                                 |
-| High endothelial venules (HEVs) | In-flow of lymphocytes  | Endothelial cells can express receptors that interact with lymphocytes                                                                |
 
+| Region                          | Function                | Immune populations                                                     |
+| ------------------------------- | ----------------------- | ---------------------------------------------------------------------- |
+| Capsule                         | Outer connective tissue | -                                                                      |
+| Cortex                          | Immune interactions     | Inactive [[B-cell]]s, Inactive [[T-cell]]s, [[dendritic cell]]s        |
+| Medulla                         | Immune interactions     | [[Plasma cell]]s                                                       |
+| Afferent lymphatic vessels      | In-flow of blood        |                                                                        |
+| High endothelial venules (HEVs) | In-flow of lymphocytes  | Endothelial cells can express receptors that interact with lymphocytes |
 
 
 # References

@@ -28,4 +28,4 @@ status: Unverified
 1. [Wikipedia](https://en.wikipedia.org/wiki/CTLA-4)
 
 ---
-_Tags:_ #ref #gene
+_Tags:_ #ref #gene #protein
