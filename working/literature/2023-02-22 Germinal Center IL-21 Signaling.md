@@ -15,5 +15,5 @@ https://doi.org/10.1126/sciimmunol.add1823
 	- Synergistically induce [[c-MYC]] and [[p-S6]]
 - How does [[IL-21]] affect B-cell differentiation?
 	- IL-21 + CD40 affects B-cells differently from BCR + CD40
-		- [[Plasma cell]]s
+		- [[plasma cell]]s
 		- [[B-memory cell precursor]]s

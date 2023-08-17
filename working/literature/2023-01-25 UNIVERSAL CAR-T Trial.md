@@ -19,7 +19,7 @@ https://doi.org/10.1038/s41591-022-02182-7
 
 **Results**
 - Grade 3 [[Adverse Event]] or higher: 88%
-- [[Cytokine release syndrome]]: 55.8%
+- [[cytokine release syndrome]]: 55.8%
 	- Grade 3 or higher: 2.3%
 - Neurotoxicity: 14%
 

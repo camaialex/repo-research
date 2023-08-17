@@ -1,0 +1,52 @@
+![](https://www.youtube.com/watch?v=i3b_5C5M3mo&list=PLnr1l7WuQdDynxT6uzmXTGn0YJHhi_14S&index=10)
+### Notes
+- Types of epithelial tissues
+	- Simple vs stratified (1 vs 2+ layers)
+		- Pseudostratified: Simple epithelium that contains diverse cell types that gives illusion of layers
+			- When classifying, we go with "**pseudostratified COLUMNAR**"
+	- Shape of **apical** cells
+		- Squamous (flat)
+			- Keratinized vs. nonkeratinized
+			- Simple squamous epithelia are typically nonkeratinized
+		- Cuboidal
+		- Columnar
+			- Ciliated vs. nonciliated
+	- Transitional epithelium
+		- Typically **stratified** with cuboidal apical layer
+		- BUT when stretched, cells can take a different shape ranging all the way to squamous
+		- Ex. lining urinary tract which is designed to distend and recoil
+- How to name:
+	- **Layers + Cell type + specialization + tissue**
+- Organ-specific epithelia
+	- Mesothelium: epithelial lining of all viscera/internal body cavities/viscera
+		- **Simple squamous**
+	- Endothelium: lining of lumen of vasculature
+		- **Simple squamous**
+	- Urothelium: lining of the urinary tract 
+		- **Transitional**
+	- Respiratory epithelium
+		- **Pseudostratified columnar ciliated**
+
+### Study Guide
+- Once you have located an epithelial tissue, what morphological features should you look for in order to classify it?
+	- Number of cell layers
+	- Shape of apical layer
+	- Specializations
+- Recall and diagram below the epithelial tissue classification formula (try without looking at the video), including the “odd ones out” and the organ specific names for certain epithelia
+	- Number of cell layers
+		- 1: Simple
+		- +1: Stratified
+	- Shape of cells
+		- Squamous
+		- Cuboidal
+		- Columnar
+	- Specializations
+		- **Squamous** can be keratinized or nonkeratinized
+		- **Columnar** can be ciliated or nonciliated
+	- Odd ones out
+		- **Pseudostratified** epithelia are simple epithelia made of diverse cell types that give the illusion of multiple layers
+		- **Transitional** epithelia are epithelia that create different shapes when stretched and rebounded. Typically cuboidal.
+		- **Mesothelium** lines the viscera and internal organs (simple squamous)
+		- **Endothelium** lines the vasculature (simple squamous)
+		- **Urogenital epithelium** lines the urogenital tract (transitional)
+		- **Respiratory epithelium** lines the respiratory tract (pseudostratified columnar ciliated)

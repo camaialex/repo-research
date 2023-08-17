@@ -6,3 +6,6 @@ https://www.markdownguide.org/cheat-sheet/
 You can drag and drop documents as symlinks into markdown files
 
 ![](https://www.youtube.com/watch?v=Wy_euU-zeSg)
+
+>[!Info]-
+>ligma balls

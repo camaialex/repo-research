@@ -1,23 +1,31 @@
 ---
-alias: Helper T-cell, Th, CD4+ T-cell
+version: 1.0
+last_updated: 08/08/2023
+aliases: Helper T-cell, Th, CD4+ T-cell
+type: Cell
+status: 
 ---
 
-#ref #cell #lymphoid 
+# Helper T-Cell
 
-# HELPER T-CELL
-
-**Definition Tree:**
-- Hematopoietic: [[CD45|CD45]]+
-	- T-cell: [[CD3|CD3]]+
-		- Helper T-cell: [[CD4|CD4]]+
-
-**Functional Snapshot:**
-- Activated by mature APC :: Th cell interaction
+## Lineage
+- 
+## Subtypes
+- [[Th1 cell|Th1]]
+- Th2
+- Th17
+- Treg
+## Immunology
+- Stimulated by binding [[TCR]] to [[MHC-II]] on [[APC]]s
 	- *Signal 1:* MHC:Ag :: TCR
 	- *Signal 2:* Costimulatory protein :: CD28
-- Activation triggers IL-2 autocrine signaling
-- Function varies by differentiation:
-	- [[Th1 cell|Th1]]
-	- Th2
-	- Th17
-	- Treg
+	- Activation triggers IL-2 autocrine signaling
+- Stimulates activation and proliferation of cognate [[cytotoxic T-cell]]s and [[B-cell]]s
+## Pathology
+- Impaired adaptive immune response 
+
+# References
+1. 
+
+---
+Tags: #ref #cell #lymphoid #MED

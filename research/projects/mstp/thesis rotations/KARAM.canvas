@@ -10,7 +10,8 @@
 		{"type":"text","text":"**Radiation-induced fibrosis**","id":"8dcfce2210a38649","x":799,"y":458,"width":361,"height":102},
 		{"type":"text","text":"**Eph-ephrin signaling**","id":"facbb5d347a0462d","x":663,"y":682,"width":317,"height":109},
 		{"type":"text","text":"**Effect of radiation on complement activation**","id":"121a622c17db6f37","x":-240,"y":655,"width":320,"height":162},
-		{"id":"b1821378c90b0cb9","x":-1220,"y":680,"width":400,"height":400,"type":"file","file":"research/literature/Darragh et al., 2023.md"}
+		{"type":"file","file":"research/literature/Darragh et al., 2023.md","id":"b1821378c90b0cb9","x":-1220,"y":680,"width":400,"height":400},
+		{"id":"d1e8dda9277850f5","x":-179,"y":-560,"width":370,"height":211,"type":"text","text":"# History\n\nPhD: UW, Mark Bothwell lab\n- Neuro-development\n- Ephrins\n- \n"}
 	],
 	"edges":[
 		{"id":"d3a5f61b45d5d64c","fromNode":"7c25d8216c665301","fromSide":"bottom","toNode":"91dae85bd76bb2cc","toSide":"top"},
@@ -21,6 +22,7 @@
 		{"id":"7ad9f83b00b51bcf","fromNode":"91dae85bd76bb2cc","fromSide":"bottom","toNode":"89160caeb7603549","toSide":"top"},
 		{"id":"40061eaf1b21e1d9","fromNode":"91dae85bd76bb2cc","fromSide":"right","toNode":"51fcfae7d9fe77a0","toSide":"left"},
 		{"id":"800388b052ce6c37","fromNode":"91dae85bd76bb2cc","fromSide":"right","toNode":"8dcfce2210a38649","toSide":"left"},
-		{"id":"ece6789688739596","fromNode":"91dae85bd76bb2cc","fromSide":"right","toNode":"facbb5d347a0462d","toSide":"left"}
+		{"id":"ece6789688739596","fromNode":"91dae85bd76bb2cc","fromSide":"right","toNode":"facbb5d347a0462d","toSide":"left"},
+		{"id":"711fe93b77a4820e","fromNode":"7c25d8216c665301","fromSide":"top","toNode":"d1e8dda9277850f5","toSide":"bottom"}
 	]
 }

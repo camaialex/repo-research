@@ -1,0 +1,75 @@
+- **Describe how the signal transduction schema (ligand, receptor, amplification via second messengers, response) is followed by diverse cell signaling pathways.** [3/5]
+	- GsPCR
+		- Binds ligand
+		- Galpha subunit GAP activity binds GTP
+		- Dissociates from beta and gamma subunits and diffuses across membrane
+		- Inhibits adenylate cyclase
+		- Prevents cAMP buildup
+		- Signal is terminated by GTPase activity, scavenging second messengers
+	- GiPCR
+		- Binds ligand
+		- Galpha subunit GAP activity binds GTP
+		- Stimulates adenylate cyclase
+		- Buildup of cAMP causes downstream signaling
+		- Signal is terminated by GTPase activity, scavenging second messengers
+	- GqPCR
+		- Binds ligand
+		- Galpha subunit GAP activity binds GTP
+		- Dissociates from beta and gamma subunits and diffuses across membrane
+		- Hydrolyzes ??? into DAG and IP3
+		- IP3 stimulates PKA?
+		- DAG does something else
+	- RTK
+		- Two monomers each bind a ligand and dimerize
+		- Each monomer has kinase activity that phosphorylates the other
+		- Triggers a series of downstream enzymatic reactions
+- **Provide examples of receptors, 2nd messengers, and signal termination.** [4/5]
+	- Example of GPCR: 
+	- Example of RTK-like: Ras-MAP
+	- Other second-messengers: DAG/IP3, cAMP
+	- Signal termination:
+		- Ubiquitination
+		- Hydrolysis of cAMP
+- **Appraise the diversity of G-protein linked second messengers and their functions.** [5/5]
+	- Answered above
+- **Describe how components of a signaling pathway relay a signal, using both positive and negative mechanisms of regulation.** [3/5]
+	- Answered above
+- **Distinguish genetic and cytological characteristics between stem cells versus terminally differentiated cells.** [2/5]
+	- Genetically, stem cells ???
+	- Histologically, stem cells are usually rounder and look more "regular" than terminally differentiated cells which often have highly specialized shapes
+- **Diagram checkpoints of the cell cycle and the factors involved in its control.**
+	- G1/S checkpoint: cyclin E
+	- S/M checkpoint: cyclin B
+- **Compare apoptosis and necrosis in terms of morphology, typical triggers of the two phenomena, and relative importance in physiological and pathological processes** [4/5]
+	- Necrosis is unintentional cell death that results in the externalization of cellular contents
+		- Typically triggered by disease, pathology, trauma
+		- Can involve multiple cells at a time
+		- Immunogenic, can cause inflammation and death of nearby cells
+	- Apoptosis is controlled, programmed cell death that preserves membrane integrity.
+		- Typically a normal cell activity, but can be triggered by disease or trauma to nearby cells
+		- Typically involves single cell at a time
+		- Non-immunogenic, can control infection by containing it within apoptotic cells?
+- **Differentiate stimulus, duration, and tissue response for reversible vs irreversible cell injury** [4/5]
+	- Reversible
+		- Mild stimulus
+		- Short-term/chronic
+		- Response: cell adaptation by proliferation, growth, morphology
+	- Irreversible
+		- Noxious stimulus
+		- Long-term/chronic
+		- Response: necrosis
+- **Recognize the histology of atrophy, hyperplasia, hypertrophy, metaplasia** [4/5]
+	- Atrophy: smaller cytoplasm
+	- Hyperplasia: more cells than expected
+	- Hypertrophy: larger cytoplasm, more active transcription (diffuse nuclear staining)
+	- Metaplasia: a NORMAL tissue type where it isn't supposed to be
+- **Describe stimuli that lead to cellular adaptive changes** [3/5]
+	- Atrophy: lack of perfusion/nutrients, disuse, disease
+	- Hyperplasia: proliferative factors, injury that requires healing
+	- Hypertrophy: growth factors, (over)use
+	- Metaplasia: adverse conditions that a different tissue type is better-suited to handle (ex. acid reflux)
+- **List factors that determine if cellular changes are reversible** [2/5]
+	- Does it impact major organelles like the mitochondria?
+	- Is it traumatic?
+	- How many cells are affected?
+	- How long does the stimulus last?

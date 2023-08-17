@@ -1,15 +1,33 @@
 ---
-alias: Natural Killer Cell, NK Cell, NK
+version: 1.0
+last_updated: 08/08/2023
+aliases: Natural Killer Cell
+type: Cell
+status: 
 ---
 
-#ref #cell `#lymphoid or #myeloid`
+# NK Cell
 
-# Natural Killer (NK) Cell
+(back to [[ILC|innate lymphoid cell]])
 
-**Definition Tree:**
-- [[CD45|CD45]]+
-	- [[CD3|CD3]]-, [[marker_cd19|CD19]]-
-		- [[marker_nk1-1|NK1.1]]+
+## Lineage
+- - [[CD45]]+
+	- [[CD3]]-, [[CD19]]-
+		- [[NK1.1]]+
+## Immunology
+- Patrols in search of **abnormal** host cells
+	- Absence of [[MHC-I]] on surface raises alarm
+### Type 1 Immunity
+- NK cells engage in "type 1" immunity
+	- [[perforin]]
+	- [[granzymes]]
+	- [[IFNg]]
+	- Cell-mediated toxicity
+## Pathology
+- Impaired viral immunity (viruses sometimes downregulate MHC-I)
 
-**Functional Snapshot:**
-- 
+# References
+1. 
+
+---
+Tags: #ref #cell #lymphoid #MED #heme_lymph 

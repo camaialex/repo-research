@@ -7,16 +7,18 @@ status:
 ---
 
 # Cell Name
----
+
 ## Lineage
 - 
-
-## Biology
+## Immunology
 - 
-
+## Pathology
+- 
+## Histology
+- 
 
 # References
 1. 
 
 ---
-_Tags:_ #ref #cell
+_Tags:_ #ref #cell #MED
