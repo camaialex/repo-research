@@ -3,8 +3,8 @@
 .obsidian/hotkeys.json
 .obsidian/workspace.json
 .DS_Store
-clinical
-meta
-file
-research
-working
+clinical/
+meta/
+file/
+research/
+working/
