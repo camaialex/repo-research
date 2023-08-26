@@ -1,7 +1,0 @@
-#ref #brain
-
-The nucleus accumbens, being one part of the reward system, plays an important role in processing rewarding stimuli, reinforcing stimuli (e.g., food and water), and those which are both rewarding and reinforcing (addictive drugs, sex, and exercise). The predominant response of neurons in the nucleus accumbens to the reward sucrose is inhibition; the opposite is true in response to the administration of aversive quinine. Substantial evidence from pharmacological manipulation also suggests that reducing the excitability of neurons in the nucleus accumbens is rewarding, as, for example, would be true in the case of μ-opioid receptor stimulation. The blood oxygen level dependent signal (BOLD) in the nucleus accumbens is selectively increased during the perception of pleasant, emotionally arousing pictures and during mental imagery of pleasant, emotional scenes. However, as BOLD is thought to be an indirect measure of regional net excitation to inhibition, the extent to which BOLD measures valence dependent processing is unknown. Because of the abundance of NAcc inputs from limbic regions and strong NAcc outputs to motor regions, the nucleus accumbens has been described by Gordon Mogensen as the interface between the limbic and motor system.
-
-**Mnemonic**:
-
-Nucleus acCUMbens processes reward stimuli

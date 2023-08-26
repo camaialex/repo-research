@@ -1,5 +1,0 @@
----
-alias: Murine Dissection
----
-
-#sop

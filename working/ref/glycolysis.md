@@ -1,6 +1,0 @@
----
-alias: Glycolysis
----
-
-#ref #metabolism 
-
