@@ -2,7 +2,7 @@
 alias: Sacirbegovic - GVHD Resident T-cells
 ---
 
-Links: [[T-cell]]
+Links: [[T cell]]
 Tags: #t-cell #gvhd
 
 ---

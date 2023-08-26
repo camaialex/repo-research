@@ -2,7 +2,7 @@
 alias: Tabilas - Microbial exposure T-cell development
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]]
+Links: [[cytotoxic T cell|CD8+ T-cell]]
 Tags: #t-cell #t-cell-development
 
 ---

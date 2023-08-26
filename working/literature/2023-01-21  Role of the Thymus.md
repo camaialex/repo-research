@@ -2,7 +2,7 @@
 alias: Miller - Role of the Thymus
 ---
 
-Links: [[T-cell]]
+Links: [[T cell]]
 Tags: #foundational #t-cell #leukemia #JACQUES-MILLER 
 
 ---

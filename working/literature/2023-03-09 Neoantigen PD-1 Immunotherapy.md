@@ -2,7 +2,7 @@
 alias: Puig-Saus - Neoantigen PD-1 Immunotherapy 
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]], [[immunotherapy]]
+Links: [[cytotoxic T cell|CD8+ T-cell]], [[immunotherapy]]
 Tags: #t-cell #immunotherapy 
 
 ---

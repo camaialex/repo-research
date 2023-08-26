@@ -2,7 +2,7 @@
 alias: Wu - Sialylation ICB
 ---
 
-Links: [[T-cell|T-cell]]
+Links: [[T cell|T cell]]
 Tags: #cancer #immunotherapy #DONG-MING-KUANG #SUN-YAT-SEN-UNIVERSITY
 
 ---

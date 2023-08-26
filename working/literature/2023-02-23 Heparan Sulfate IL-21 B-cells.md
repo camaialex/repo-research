@@ -2,7 +2,7 @@
 alias: Chen - Heparan Sulfate IL-21 B-cells
 ---
 
-Links: [[B-cell]]
+Links: [[B cell]]
 Tags:
 
 ---

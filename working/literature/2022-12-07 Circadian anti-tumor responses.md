@@ -2,7 +2,7 @@
 alias: Wang - Circadian anti-tumor responses
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]], [[dendritic cell|Dendritic Cell]], [[cancer|Cancer]]
+Links: [[cytotoxic T cell|CD8+ T-cell]], [[dendritic cell|Dendritic Cell]], [[cancer|Cancer]]
 Tags: #t-cell 
 
 ---

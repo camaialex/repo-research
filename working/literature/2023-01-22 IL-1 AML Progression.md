@@ -2,7 +2,7 @@
 alias: Carey - IL-1 AML Progression
 ---
 
-Links: [[T-cell]], [[AML]], [[leukemia]]
+Links: [[T cell]], [[AML]], [[leukemia]]
 Tags: #t-cell #leukemia 
 
 ---

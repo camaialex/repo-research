@@ -12,7 +12,7 @@ status:
 
 ## Lineage
 - - [[CD45]]+
-	- [[CD3]]-, [[CD19]]-
+	- CD3-, CD19-
 		- [[NK1.1]]+
 ## Immunology
 - Patrols in search of **abnormal** host cells

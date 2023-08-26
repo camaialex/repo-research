@@ -2,7 +2,7 @@
 alias: Tang - Ammonia detox Tm development
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]], [[carbamoyl phosphate pathway|Carbamoyl Phosphate Pathway]]
+Links: [[cytotoxic T cell|CD8+ T-cell]], [[carbamoyl phosphate pathway|Carbamoyl Phosphate Pathway]]
 Tags: #t-cell #metabolism 
 
 ---

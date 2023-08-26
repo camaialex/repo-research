@@ -2,7 +2,7 @@
 alias: Lukhele - IRF2 exhaustion
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]], [[IRF2|IRF2]]
+Links: [[cytotoxic T cell|CD8+ T-cell]], [[IRF2|IRF2]]
 Tags: #t-cell #t-cell-exhaustion #cancer #DAVID-BROOKS
 
 ---

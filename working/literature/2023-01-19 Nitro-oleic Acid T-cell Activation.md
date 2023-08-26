@@ -2,7 +2,7 @@
 alias: Bago - Nitro-oleic Acid T-cell Activation
 ---
 
-Links: [[T-cell]]
+Links: [[T cell]]
 Tags: #t-cell #metabolism 
 
 ---

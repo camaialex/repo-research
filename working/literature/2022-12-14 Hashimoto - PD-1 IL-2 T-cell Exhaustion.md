@@ -2,7 +2,7 @@
 alias: Hashimoto - PD-1 IL-2 T-cell Exhaustion
 ---
 
-Links: [[PD-1|PD-1]], [[IL-2|IL-2]], [[cytotoxic T-cell|CD8+ T-cell]]
+Links: [[PD-1|PD-1]], [[IL-2|IL-2]], [[cytotoxic T cell|CD8+ T-cell]]
 Tags: #t-cell #t-cell-development #immunotherapy #t-cell-exhaustion #RAFI-AHMED #EMORY
 
 ---

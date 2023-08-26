@@ -11,7 +11,7 @@ progress: Abstract
 ## Successful Anti-PD-1 Cancer Immunotherapy Requires T Cell-Dendritic Cell Crosstalk Involving the Cytokines IFN-γ and IL-12
 ---
 ## Abstract
-- Discovered subset of [[dendritic cell|DC]]s that secrete [[IL-12]] crucial for [[T-cell]] responses to cancer
+- Discovered subset of [[dendritic cell|DC]]s that secrete [[IL-12]] crucial for [[T cell]] responses to cancer
 	- Sensed [[IFNg]] upon [[PD-1]] therapy
 		- Secreted IL-12
 			- Stimulated T-cell antitumor immunity

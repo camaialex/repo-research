@@ -2,7 +2,7 @@
 alias: Scherer - Pyrimidine Starvation Memory T-cells
 ---
 
-Links: [[T-cell]]
+Links: [[T cell]]
 Tags: #t-cell #autoimmunity 
 
 ---

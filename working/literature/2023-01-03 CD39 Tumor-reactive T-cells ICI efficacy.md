@@ -2,7 +2,7 @@
 alias: Chow - CD39 Tumor-reactive T-cells ICI efficacy
 ---
 
-Links: [[cytotoxic T-cell|CD8+ T-cell]], [[CD39|CD39]]
+Links: [[cytotoxic T cell|CD8+ T-cell]], [[CD39|CD39]]
 Tags: #t-cell #immunotherapy #cancer #SLOAN-KETTERING #CORNELL #CHARLES-RUDIN
 
 ---

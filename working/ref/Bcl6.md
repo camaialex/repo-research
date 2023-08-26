@@ -1,8 +1,8 @@
-#ref #protein #immune #t-cell 
+#ref #protein #immune #t-cell #MED 
 
 _From Wikipedia_
 
-Bcl-6 (B-cell lymphoma 6) is a protein that in humans is encoded by the BCL6 gene. BCL6 is a master transcription factor for regulation of T follicular helper cells ([[follicular helper T-cell|TFH]] cells) proliferation. BCL6 has three evolutionary conserved structural domains. The interaction of these domains with corepressors allows for germinal center development and leads to [[B-cell]] proliferation.
+Bcl-6 (B-cell lymphoma 6) is a protein that in humans is encoded by the BCL6 gene. BCL6 is a master transcription factor for regulation of T follicular helper cells ([[follicular helper T-cell|TFH]] cells) proliferation. BCL6 has three evolutionary conserved structural domains. The interaction of these domains with corepressors allows for germinal center development and leads to [[B cell]] proliferation.
 
 Bcl-6 is a master transcription factor for the regulation of T follicular helper cells (TFH cells). Bcl-6 is expressed when the cytokines [[IL-6]] and/or [[IL-21]] are recognized; these cytokines can be produced by antigen presenting cells (APCs: B cells, [[dendritic cell]]s, or [[macrophage]]s) when activated. This occurs when a naïve T helper cell recognizes antigen and needs to migrate to the follicle as a T follicular helper cell (TFH cell). TFH cells are vital to the generation of germinal centers in the follicles of secondary lymphoid organs, where B cells divide and help fight infections.
 

@@ -9,7 +9,7 @@ status:
 
 # Plasma Cell
 
-(back to [[B-cell]])
+(back to [[B cell]])
 
 ## Lineage
 - - ?

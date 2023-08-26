@@ -9,7 +9,7 @@ Tags: #lymphoid #t-cell #t-cell-exhaustion
 
 https://doi.org/10.1126/scitranslmed.abo4997
 
-# Advancing beyond the twists and turns of [[T-cell|T cell]] exhaustion in cancer
+# Advancing beyond the twists and turns of [[T cell|T cell]] exhaustion in cancer
 
 ## Summary
 - T-cell exhaustion is an evolutionary adaptation that allows T-cell survival in the context of continuous antigen exposure while maintaining some effector function

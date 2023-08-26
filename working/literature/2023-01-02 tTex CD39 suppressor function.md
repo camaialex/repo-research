@@ -2,7 +2,7 @@
 alias: Vignali - tTex CD39 suppressor function
 ---
 
-Links: [[Treg cell|Treg]], [[cytotoxic T-cell|CD8+ T-cell]], [[cancer|Cancer]]
+Links: [[Treg cell|Treg]], [[cytotoxic T cell|CD8+ T-cell]], [[cancer|Cancer]]
 Tags: #cancer #immunotherapy #t-cell #GREG-DELGOFFE #PITT
 
 ---

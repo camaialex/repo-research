@@ -16,4 +16,4 @@ https://doi.org/10.1158/0008-5472.can-22-2405
 - Androgen-mediated expression of [[USP18]]
 	- Inhibition of [[TAK1]] phosphorylation
 		- Activation of [[NFkB]]
-- Inhibition of [[testosterone]] synthesis enhanced [[T-cell]] antitumor activity
+- Inhibition of [[testosterone]] synthesis enhanced [[T cell]] antitumor activity

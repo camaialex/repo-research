@@ -2,7 +2,7 @@
 alias: Mathew & Torres - LPA Immune Evasion Cancer
 ---
 
-Links: [[cancer|Cancer]], [[cytotoxic T-cell|CD8+ T-cell]]
+Links: [[cancer|Cancer]], [[cytotoxic T cell|CD8+ T-cell]]
 Tags: #lipid #cancer #RAUL-TORRES #COLORADO 
 
 ---

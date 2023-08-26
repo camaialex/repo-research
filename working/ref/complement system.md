@@ -8,7 +8,7 @@ type: Concept
 # Complement System
 
 The complement system is a group of **circulating blood proteins** that galvanize innate and adaptive immunity in response to a pathogen.
-## Complement Pathways
+## Complement Pathways #todo
 - [[classical complement pathway]]
 - [[lectin-binding complement pathway]]
 - [[alternative complement pathway]]

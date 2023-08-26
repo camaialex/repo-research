@@ -11,7 +11,7 @@ progress: Abstract
 # Small intestine and colon tissue-resident memory CD8+ T cells exhibit molecular heterogeneity and differential dependence on Eomes
 ---
 ## Abstract
-- Tissue-resident memory [[cytotoxic T-cell|CD8+ T-cell]]s play crucial role in initial immune response
+- Tissue-resident memory [[cytotoxic T cell|CD8+ T-cell]]s play crucial role in initial immune response
 - The heterogeneity and context-specificity of Trm cells in different anatomic compartments is underappreciated
 
 - Intestinal and colon Trm exhibited unique cytokine and granzyme expression and epigenetic, transcriptomic, and functional heterogeneity

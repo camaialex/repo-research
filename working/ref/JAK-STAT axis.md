@@ -4,6 +4,6 @@
 alias: JAK-STAT Pathway
 ---
 
-#pathway #todo 
+#pathway
 
 [[pathway_jak-stat.png]]

@@ -8,7 +8,7 @@ type: Protein
 # Immunoglobulin
 
 - Otherwise known as **antibody**
-- Secreted by [[B-cell]]s
+- Secreted by [[B cell]]s
 	- Membrane-bound form known as [[BCR]]
 	- Main weapon of [[humoral immune response]]
 - Each Ig binds one very specific antigen

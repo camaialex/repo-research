@@ -13,7 +13,7 @@ status: Incomplete
 	- Ligand: CXCL13
 
 ## Biology
-- Enables [[T-cell]] migration to [[B-cell]] zones and [[lymph node]]
+- Enables [[T cell]] migration to [[B cell]] zones and [[lymph node]]
 
 # Gene Name
 ---

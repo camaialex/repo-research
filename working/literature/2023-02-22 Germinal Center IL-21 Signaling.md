@@ -2,7 +2,7 @@
 alias: Luo - Germinal Center IL-21 Signaling
 ---
 
-Links: [[B-cell]]
+Links: [[B cell]]
 Tags: #b-cell
 
 ---

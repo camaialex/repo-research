@@ -2,7 +2,7 @@
 alias: Zhang - HELIOS CD4+ Chromatin Effector Response
 ---
 
-Links: [[helper T-cell|CD4+ T-cell]]
+Links: [[helper T cell|CD4+ T-cell]]
 Tags: #t-cell #genomics
 
 ---

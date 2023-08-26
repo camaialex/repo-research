@@ -9,7 +9,7 @@ Tags: #lymphoid #t-cell
 
 https://doi-org.fhcrc.idm.oclc.org/10.1126/sciimmunol.ade0182
 
-# Single-cell immune profiling reveals thymus-seeding populations, [[T-cell|T cell]] commitment, and multilineage development in the human thymus
+# Single-cell immune profiling reveals thymus-seeding populations, [[T cell|T cell]] commitment, and multilineage development in the human thymus
 
 ## Summary
 - Deep single-cell profiling of the thymus immune microenvironment

@@ -11,7 +11,7 @@ progress: Abstract
 # CD39+ tissue-resident memory CD8+ T cells with a clonal overlap across compartments mediate antitumor immunity in breast cancer
 ---
 ## Abstract
-- Among the tissue-resident population of [[T-cell]]s in patients with metastatic breast cancer, CD39+ cells represented a subgroup of tumor-specific [[exhausted T-cell]]s
+- Among the tissue-resident population of [[T cell]]s in patients with metastatic breast cancer, CD39+ cells represented a subgroup of tumor-specific [[exhausted T-cell]]s
 - ICI seemed to restore cytotoxic activity of exhausted [[CD39]]+ cells
 
 ---

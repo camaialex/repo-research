@@ -2,7 +2,7 @@
 alias: Wu - HIV reservoir phenotypic diversity
 ---
 
-Links: [[dis_hiv|HIV]], [[ref_hiv-reservoir|HIV Reservoir]], [[helper T-cell|CD4+ T-cell]]
+Links: [[dis_hiv|HIV]], [[ref_hiv-reservoir|HIV Reservoir]], [[helper T cell|CD4+ T-cell]]
 Tags: #hiv #t-cell #epigenetics #MICHAEL-BETTS
 
 ---

@@ -17,5 +17,5 @@ DT T-cell media
 - RPMI
 	- 10% FBS, **heat-inactivated**
 	- 1% Pen-Strep
-	- IL-2 100 U/mL (double-check?) #todo
+	- IL-2 100 U/mL (double-check?)
 	- **Sterile-filtered**

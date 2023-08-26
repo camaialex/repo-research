@@ -2,7 +2,7 @@
 alias: Merlotti - Splicing immunogenic antigens
 ---
 
-Links: [[cancer]], [[T-cell]]
+Links: [[cancer]], [[T cell]]
 Tags: #t-cell #immunotherapy #cancer
 
 ---

@@ -2,7 +2,7 @@
 alias: Robinson - TFH adaptive immunity differentiation
 ---
 
-Links: [[follicular helper T-cell|T Follicular Helper]], [[B-cell|B-cell]]
+Links: [[follicular helper T-cell|T Follicular Helper]], [[B cell|B cell]]
 Tags: #t-cell #MICHAEL-MCHEYZER-WILLIAMS
 
 ---

@@ -2,7 +2,7 @@
 alias: Kokubo - Txnip Memory T-cell Redox Metabolism
 ---
 
-Links: [[helper T-cell|CD4+ T-cell]], [[cell_th-memory|Memory T-cell]]
+Links: [[helper T cell|CD4+ T-cell]], [[cell_th-memory|Memory T-cell]]
 Tags: #metabolism #t-cell #t-cell-development 
 
 ---

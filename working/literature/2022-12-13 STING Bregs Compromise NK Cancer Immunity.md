@@ -2,7 +2,7 @@
 alias: Li - STING Bregs Compromise NK Cancer Immunity
 ---
 
-Links: [[B-cell|B-cell]], [[cGAS-STING axis|STING]]
+Links: [[B cell|B cell]], [[cGAS-STING axis|STING]]
 Tags: #b-cell #cancer #pancreatic-cancer #JENNY-TING #UNC
 
 ---

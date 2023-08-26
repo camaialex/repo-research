@@ -1,4 +1,18 @@
-#ref #protein #tumor-suppressor
+---
+aliases: 
+type: Protein
+---
+
+(Back to [[]])
+
+# PTEN
+
+PTEN is a **tumor suppressor** that functions primarily by converting [[PIP3]] to an inactive state, directly countering the activity of [[PI3 Kinase]]
+
+Loss of PTEN results in overabundance of PIP3 and overactive [[Akt]]
+
+---
+Tags: #MED #ref #protein #tumor-suppressor 
 
 Phosphatase and tensin homolog (PTEN) is a phosphatase in humans and is encoded by the PTEN gene. Mutations of this gene are a step in the development of many cancers, specifically glioblastoma, lung cancer, breast cancer, and prostate cancer. Genes corresponding to PTEN (orthologs) have been identified in most mammals for which complete genome data are available.
 
